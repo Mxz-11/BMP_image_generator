@@ -73,6 +73,6 @@ A BMP file named test_image.bmp will be generated with the specified parameters.
 
     Mxz-11
 
-This project demonstrates structured C++ programming by integrating file handling, user input validation, and bitmap image generation. 🚀
+This project demonstrates structured C++ programming by integrating file handling, user input validation, and bitmap image generation.
 
 
