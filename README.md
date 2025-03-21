@@ -47,20 +47,20 @@
     The BMP file is generated and saved in the current directory.
 
 ### Example Input & Output
-Image Width? : 400
-Image Height? : 300
-Number of black rows at top? : 50
-Do you want to draw a circle in the center? (y/n) : y
-Enter the radius of the circle: 80
-Do you want to choose a color for the circle? (y/n) : y
-Enter Red (0-255): 0
-Enter Green (0-255): 255
-Enter Blue (0-255): 0
-Do you want to choose a background color? (y/n) : y
-Enter Red (0-255): 255
-Enter Green (0-255): 255
-Enter Blue (0-255): 0
-File Name? : test_image
+- Image Width? : 400
+- Image Height? : 300
+- Number of black rows at top? : 50
+- Do you want to draw a circle in the center? (y/n) : y
+- Enter the radius of the circle: 80
+- Do you want to choose a color for the circle? (y/n) : y
+- Enter Red (0-255): 0
+- Enter Green (0-255): 255
+- Enter Blue (0-255): 0
+- Do you want to choose a background color? (y/n) : y
+- Enter Red (0-255): 255
+- Enter Green (0-255): 255
+- Enter Blue (0-255): 0
+- File Name? : test_image
 Output
 
 A BMP file named test_image.bmp will be generated with the specified parameters.
